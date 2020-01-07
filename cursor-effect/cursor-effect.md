@@ -4,6 +4,7 @@
 * 支持多个屏幕
 * 非常低的 CPU 占用
 
+[商店下载](https://apps.apple.com/cn/app/cursoreffect/id1253943369)
 ![](./1.png)
 ![](./2.png)
 ![](./3.png)

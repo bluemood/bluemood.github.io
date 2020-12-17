@@ -8,6 +8,11 @@
 小黑为了爱情至死不渝，救出小白是他的目标，尽管很多障碍阻止，只要谨慎操作，总有办法成功解救。
 小黑王国受到女巫的攻击，她把所有小白弄走困在了笼子里，我们需要解救小白，一段冒险的旅程及将展开。在山洞里尽情的奔跑、跳跃，挑战紧张刺激的关卡。
 
+![](./battery-station/icon.png)  
+[Battery Station](./battery-station/battery-station)  
+这是一款简洁有趣的MacBook全线系列电池检查软件。
+没有广告打扰您，设计精美的小动画让您心情愉悦！您可以迅速了解最主要的多种电池状况，比如电池健康、电池循环次数、电池温度等。
+
 ![](./cursor-effect/icon.png)  
 [CursorEffect - 光标特效](./cursor-effect/cursor-effect)  
 为你的鼠标增加一些光标特效,方便找到光标  

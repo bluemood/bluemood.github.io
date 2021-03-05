@@ -1,4 +1,11 @@
 ## Welcome to macOSgame  
+
+![](./iwallpaper/icon.png)  
+[iWallpaper-Live Wallpaper](./iwallpaper/iwallpaper)
+macOS的动态壁纸应用
+完美融合顶部菜单栏,使用先进的Cloudkit技术,适配Apple silicon
+支持6台以上显示器独立控制,支持4种显示器比例,直观的显示器实时预览和选择
+
 ![](./briquette-sprite/icon.png)  
 [Briquette Sprite](./briquette-sprite/briquette-sprite)  
 精灵的村庄受到了怪物们的攻击，他奋起反坑，经历春夏秋冬，一段冒险的旅程及将展开，为了多彩的村庄，让我们一起来消灭怪物吧！煤球今天看起来也黑黑的，不过他元气满满，又要开始大冒险了吗。在精灵村庄里尽情奔跑、跳跃，挑战紧张刺激的关卡。  

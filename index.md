@@ -1,7 +1,7 @@
 ## Welcome to macOSgame  
 
 ![](./iwallpaper/icon.png)  
-[iWallpaper-Live Wallpaper](./iwallpaper/iwallpaper)
+[iWallpaper-Live Wallpaper](./iwallpaper/iwallpaper)  
 macOS的动态壁纸应用
 完美融合顶部菜单栏,使用先进的Cloudkit技术,适配Apple silicon
 支持6台以上显示器独立控制,支持4种显示器比例,直观的显示器实时预览和选择

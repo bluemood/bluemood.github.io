@@ -2,9 +2,9 @@
 
 ![](./iwallpaper/icon.png)  
 [iWallpaper-Live Wallpaper](./iwallpaper/iwallpaper)  
-mac 动态壁纸  
+mac 动态壁纸  [(帮助文档)](./iwallpaper/iwallpaper-help)   
 完美融合顶部菜单栏,使用先进的Cloudkit技术,适配Apple silicon
-支持6台以上显示器独立控制,支持4种显示器比例,直观的显示器实时预览和选择[帮助](./iwallpaper/iwallpaper-help)
+支持6台以上显示器独立控制,支持4种显示器比例,直观的显示器实时预览和选择   
 
 ![](./briquette-sprite/icon.png)  
 [Briquette Sprite](./briquette-sprite/briquette-sprite)  

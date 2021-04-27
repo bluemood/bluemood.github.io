@@ -60,6 +60,8 @@
 The above questions and screenshots have different effects in different versions. Actually, the latest version of the store shall prevail!
 Because we constantly update the project under the feedback of users, in order to make our products better!
 So, if you have any questions, please contact us!!!
-https://space.bilibili.com/43521885
-https://twitter.com/rhljiayou  
 </p>
+
+[bilibili](https://space.bilibili.com/43521885)   
+
+[twitter](https://twitter.com/rhljiayou)   

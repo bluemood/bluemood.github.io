@@ -1,48 +1,43 @@
 ## macOSgame 工作室
 
 ![](./iwallpaper/icon.png)  
-[iWallpaper-Live Wallpaper](./iwallpaper/iwallpaper)  
+[iWallpaper-Live Wallpaper](./iwallpaper/iwallpaper)   [Mac软件]   
 mac 动态壁纸  [(帮助文档)](./iwallpaper/iwallpaper-help)   
 完美融合顶部菜单栏,使用先进的Cloudkit技术,适配Apple silicon
 支持6台以上显示器独立控制,支持4种显示器比例,直观的显示器实时预览和选择   
 
+![](./cursor-effect/icon.png)  
+[CursorEffect - 光标特效](./cursor-effect/cursor-effect)   [Mac软件]   
+为你的鼠标增加一些光标特效,方便找到光标  
+
 ![](./briquette-sprite/icon.png)  
-[Briquette Sprite](./briquette-sprite/briquette-sprite)  
-精灵的村庄受到了怪物们的攻击，他奋起反坑，经历春夏秋冬，一段冒险的旅程及将展开，为了多彩的村庄，让我们一起来消灭怪物吧！煤球今天看起来也黑黑的，不过他元气满满，又要开始大冒险了吗。在精灵村庄里尽情奔跑、跳跃，挑战紧张刺激的关卡。  
+[煤球精灵](./briquette-sprite/briquette-sprite)   [Mac游戏]   
+横版过关吃星星的休闲游戏  
 
 ![](./super-sprite/icon.png)  
-[小黑](./super-sprite/super-sprite)  
-小黑为了爱情至死不渝，救出小白是他的目标，尽管很多障碍阻止，只要谨慎操作，总有办法成功解救。
-小黑王国受到女巫的攻击，她把所有小白弄走困在了笼子里，我们需要解救小白，一段冒险的旅程及将展开。在山洞里尽情的奔跑、跳跃，挑战紧张刺激的关卡。
+[小黑](./super-sprite/super-sprite)   [Mac游戏]   
+手速耐心挑战游戏,来挑战排行榜吧!  
 
 ![](./battery-station/icon.png)  
-[Battery Station](./battery-station/battery-station)  
+[Battery Station](./battery-station/battery-station)   [Mac软件]   
 这是一款简洁有趣的MacBook全线系列电池检查软件。
 没有广告打扰您，设计精美的小动画让您心情愉悦！您可以迅速了解最主要的多种电池状况，比如电池健康、电池循环次数、电池温度等。
 
-![](./jump-ball/icon30.png)  
-[Jump Ball](./jump-ball/jump-ball)  
-这是一款益智的休闲游戏，我们需要控制3D小球移动，得到星星并达到终点，非常有趣的关卡设计，看看你能用多长时间通关，上传成绩，挑战排行榜，与世界的小伙伴们比赛吧！
-
-![](./cursor-effect/icon.png)  
-[CursorEffect - 光标特效](./cursor-effect/cursor-effect)  
-为你的鼠标增加一些光标特效,方便找到光标  
+![](./sprite-slice/icon.png)  
+[精灵切片](./sprite-slice/normal-texture)   [Mac软件]   
+可以快速把瓦片地图切割成单独的图片导出为JPG或PNG.   
 
 ![](./normal-texture/icon.png)  
-[MormalTexture-法线地图](./normal-texture/normal-texture)  
+[MormalTexture-法线地图](./normal-texture/normal-texture)   [Mac软件]   
 一键生成法线地图  
 实时预览贴图效果
 
+![](./jump-ball/icon30.png)  
+[Jump Ball](./jump-ball/jump-ball)   [Mac游戏]   
+这是一款益智的休闲游戏，控制3D小球移动，得到星星并达到终点！
+
 ![](./rapid-jump-mac/icon.png)  
-[Rapid Jump-macOS](./rapid-jump-mac/rapid-jump-mac)  
-控制可爱的精灵跳到板上，不要碰到刺，不要跳下去，吃更多的生命来加分数，下去的越深分数越高，你的分数将会传到排行榜上，与全世界的小伙伴一起争第一吧！有趣！
-
-![](./rapid-jump-ios/icon.png)  
-[Rapid Jump-iOS](./rapid-jump-ios/rapid-jump-ios)  
-控制可爱的精灵跳到板上，不要碰到刺，不要跳下去，吃更多的生命来加分数，下去的越深分数越高，你的分数将会传到排行榜上，与全世界的小伙伴一起争第一吧！有趣！
-
-![](./message-filter/icon.png)  
-[短信过滤](./message-filter/message-filter)  
-通过打开系统的过滤开关，使用此应用添加过滤关键字，就可以过滤不想看到的垃圾短信
+[跳跳精灵](./rapid-jump-mac/rapid-jump-mac)   [Mac游戏]   
+休闲游戏,控制可爱的精灵跳到板上，挑战分数，达成成就！
 
 [隐私策略](./privacy-policy)

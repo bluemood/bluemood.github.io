@@ -5,6 +5,8 @@
 * 先进的Cloudkit技术
 * 适配Apple silicon,效率更高
 
+[(粒子参数说明)](./particle-parameters)    
+
 [商店下载](https://apps.apple.com/cn/app/cursoreffect/id1585374223)
 ![](./1.png)
 ![](./2.png)

@@ -6,6 +6,10 @@ mac 动态壁纸  [(帮助文档)](./iwallpaper/iwallpaper-help)
 完美融合顶部菜单栏,使用先进的Cloudkit技术,适配Apple silicon
 支持6台以上显示器独立控制,支持4种显示器比例,直观的显示器实时预览和选择   
 
+![](./keyshow/Icon_30x30.png)  
+[KeyShow - 显示按键](./keyshow/keyshow)   [Mac软件]   
+实时显示您按下的所有按键,显示您的鼠标事件.   
+
 ![](./cursor-effect2/icon.png)  
 [CursorEffect2 - 光标特效2](./cursor-effect2/cursor-effect2)   [Mac软件]   
 完全自定义粒子特效     [(粒子参数说明)](./cursor-effect2/particle-parameters)   

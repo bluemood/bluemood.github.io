@@ -19,7 +19,7 @@ mac 动态壁纸  [(帮助文档)](./iwallpaper/iwallpaper-help)
 [KeyShow - 显示按键](./keyshow/keyshow)   [Mac软件]   
 实时显示您按下的所有按键,显示您的鼠标事件.   
 
-![](./speech/Icon_128x128.png)  
+![](./speech/Icon_30x30.png)  
 [音频文件和文字互转](./speech/speech)   [Mac软件]    
 
 ![](./briquette-sprite/icon.png)  

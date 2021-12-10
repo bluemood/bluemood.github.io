@@ -8,9 +8,12 @@
 在屏幕不同的缩放比例下,都可以准确补全缺口内容.   
 
 
-This application is developed for mac with notch. Other devices do not need to be completed, so there is no effect. The full screen can make better use of the screen space, but occasionally it cannot display important menu content.
-Use this tool to add content when the mouse passes through the notch, without missing important information.
-This app uses screen recording permissions to view the content of the notch. Please rest assured that the app does not write network functions at all and will not send any information to the network. Everything is implemented on this computer. You don't have to worry about privacy leakage caused by this application.   
+This application is developed for mac with bangs. Other devices do not need to be completed, so there is no effect.   
+The full screen can make better use of screen space, but occasionally cannot display important menu content.   
+Use this tool to add content when the mouse passes through the gap, without missing important information.   
+This application uses screen recording permissions to view the content of the gap. Please rest assured that the application does not write network functions at all, and will not send any information to the network. Everything is implemented on this computer. You don't have to worry about privacy leakage caused by this application.   
+Only when the mouse passes through the gap will it be supplemented with content, which occupies extremely low system resources.   
+In different zoom ratios of the screen, the gap content can be accurately filled.   
 
 [商店下载](https://apps.apple.com/app/id1597626310?mt=12)
 ![](./1.png)

@@ -15,6 +15,9 @@ mac 动态壁纸  [(帮助文档)](./iwallpaper/iwallpaper-help)
 [CursorEffect - 光标特效](./cursor-effect/cursor-effect)   [Mac软件]   
 为你的鼠标增加一些光标特效,方便找到光标  
 
+![](./shownotchcontent/Icon_30x30.png)  
+[刘海儿补全计划](./shownotchcontent/shownotchcontent)   [Mac软件]    
+
 ![](./keyshow/Icon_30x30.png)  
 [KeyShow - 显示按键](./keyshow/keyshow)   [Mac软件]   
 实时显示您按下的所有按键,显示您的鼠标事件.   

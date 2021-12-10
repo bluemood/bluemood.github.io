@@ -1,17 +1,18 @@
-## 显示按键
-* 实时显示您按下的所有按键及鼠标事件   
-* 自定义样式及显示设置   
-* 支持多个屏幕   
-* 先进的Cloudkit技术   
-* 适配Apple silicon,效率更高   
+## 刘海儿补全计划
 
-适合直播、培训和录制演示视频等场景。   
+此应用针对拥有刘海儿的mac进行开发.  
+其它设备无需补全,所以无任何效果.   
+全面屏可以更好的利用屏幕空间,但是偶尔无法显示重要的菜单内容.   
+使用此工具可以在鼠标经过缺口的时候补充内容,不遗漏重要信息.   此应用使用屏幕录制权限来查看缺口的内容,请放心应用完全没有编写网络功能,不会对网络发送任何信息,一切都在此电脑实现,您完全不必担心此应用造成隐私泄露.   
+只有鼠标经过缺口,才会补充内容,占用极低的系统资源.   
+在屏幕不同的缩放比例下,都可以准确补全缺口内容.   
 
-—隐私与反馈—   
-本软件只显示您的按键,不记录您的按键,不会有任何记录发送到网络上,任何人都不会通过本应用拿到您的按键记录   
-为了保护您的隐私,在键入密码或使用密码框时,将不会显示您的键盘输入。   
 
-[商店下载](https://apps.apple.com/cn/app/cursoreffect/id1596544553)
+This application is developed for mac with notch. Other devices do not need to be completed, so there is no effect. The full screen can make better use of the screen space, but occasionally it cannot display important menu content.
+Use this tool to add content when the mouse passes through the notch, without missing important information.
+This app uses screen recording permissions to view the content of the notch. Please rest assured that the app does not write network functions at all and will not send any information to the network. Everything is implemented on this computer. You don't have to worry about privacy leakage caused by this application.   
+
+[商店下载](https://apps.apple.com/app/id1597626310?mt=12)
 ![](./1.png)
 
 —联系我们—

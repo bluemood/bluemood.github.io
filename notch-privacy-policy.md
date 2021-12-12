@@ -11,6 +11,8 @@ The data will not be shared with any third parties.
 
 The recorded content will not be stored on the hard disk, nor will it be sent to the Internet.
 
+Only you can see the recorded content, others cannot get the recorded content.
+
 The recorded data is only stored in the memory, only a few seconds of existence time, not stored in any file form, I will not collect, use, disclose, share and retain.
 
 If you have any questions, please contact us.

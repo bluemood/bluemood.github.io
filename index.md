@@ -1,5 +1,3 @@
-## macOSgame 工作室
-
 ![](./iwallpaper/icon.png)  
 [iWallpaper-Live Wallpaper](./iwallpaper/iwallpaper)   [Mac软件]   
 mac 动态壁纸  [(帮助文档)](./iwallpaper/iwallpaper-help)   

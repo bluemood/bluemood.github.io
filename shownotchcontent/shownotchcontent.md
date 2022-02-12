@@ -16,6 +16,9 @@ Only when the mouse passes through the gap will it be supplemented with content,
 In different zoom ratios of the screen, the gap content can be accurately filled.   
 
 [下载](https://macosgame.com/notch.zip)
+
+![](./nice.gif)
+
 ![](./1.png)
 
 —联系我们—

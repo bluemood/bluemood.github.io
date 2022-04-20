@@ -23,7 +23,7 @@
   <summary>3. Have purchased but did not remove the watermark?</summary>
   
   <p>There is no response to the purchase, or the watermark is not removed after the purchase is successful. Usually, the network problem cannot be linked to Apple's server. You can try to purchase multiple times (please rest assured, no matter how many purchases, only one deduction will be made), as long as the payment is successful , You can use the recovery function later.</p>
-  
+  <p><a href="/iwallpaperreset.md">Wallpaper reset</a></p>
 </details>
 
 <details>

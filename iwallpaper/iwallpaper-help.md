@@ -1,5 +1,6 @@
 ### 动态壁纸帮助
 
+<b>
 <details>
   <summary>1. 如何设置壁纸?</summary>
   
@@ -22,7 +23,7 @@
   <summary>3. 已经购买但并没有消除水印?</summary>
   
   <p>购买没有反应,或者购买成功水印没有消除,通常是网络的问题无法链接到苹果的服务器,您可以通过多次尝试购买(请完全放心,无论多少次购买,只会扣费一次),只要付费成功,之后都可以用恢复功能.</p>
-  <p>ultimate method:<a href="https://macosgame.com/iwallpaper/iwallpaperreset">重置应用</a></p>
+  <p>终极方法:<a href="https://macosgame.com/iwallpaper/iwallpaperreset">重置应用</a></p>
 </details>
 
 <details>
@@ -74,3 +75,5 @@
 所以,如果您有任何问题,请与我们联系!!!   
 [bilibili](https://space.bilibili.com/43521885)   
 [twitter](https://twitter.com/rhljiayou)   
+
+</b>

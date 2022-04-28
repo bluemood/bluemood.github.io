@@ -55,6 +55,7 @@
   <p> <img src="/iwallpaper/help/5.png" alt="" /></p>
  
 </details>
+<p>ultimate method:<a href="https://macosgame.com/iwallpaper/iwallpaperreset">Wallpaper reset</a></p>
 
 The above questions and screenshots have different effects in different versions. Actually, the latest version of the store shall prevail!
 Because we constantly update the project under the feedback of users, in order to make our products better!

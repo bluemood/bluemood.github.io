@@ -19,28 +19,28 @@
           不以任何文件形式存储，我不会收集、使用、披露、分享和保留。   
 • 内容:只有您可以看到录制的内容，其他人无法获取录制的内容。   
 
-如果您有任何问题,请联系我们. 
-__E-mail:360511404@qq.com__
+如果您有任何问题,请联系我们.    
+__E-mail:360511404@qq.com__   
 
-Our Privacy Policy was updated on May 5, 2022, effective for all apps under xiao dong zhou and macOSgame studio
+Our Privacy Policy was updated on May 5, 2022, effective for all apps under xiao dong zhou and macOSgame studio   
 
-1. About personal information
-We respect and protect the privacy of all users who use our app.
-We will not provide, sell, rent, share or trade your personal information to any third party
+1. About personal information   
+We respect and protect the privacy of all users who use our app.   
+We will not provide, sell, rent, share or trade your personal information to any third party   
 
-2. About the application using input monitoring
-Only display your keystrokes, do not record your keystrokes, no records will be sent to the network, and no one will get your keystroke records through this application
-To protect your privacy, your keyboard input will not be displayed when typing a password or using the password box.
+2. About the application using input monitoring   
+Only display your keystrokes, do not record your keystrokes, no records will be sent to the network, and no one will get your keystroke records through this application   
+To protect your privacy, your keyboard input will not be displayed when typing a password or using the password box.   
 
-3. About the application using screen recording
-• Function: The function of the "magnifying glass" in the application. The only purpose of using screen recording is to capture the screen and magnify the display.   
-• Data: Generate pictures using screen recording.   
+3. About the application using screen recording   
+• Function: The function of the "magnifying glass" in the application. The only purpose of using screen recording is to capture the screen and magnify the display.    
+• Data: Generate pictures using screen recording.    
 • Purpose: After generating the picture, enlarge it and display it on the local screen.   
 • Third parties: Data will not be shared with any third parties.   
 • Storage: Recordings are not stored on the hard drive and are not sent to the Internet. The recorded data is only stored in memory and only exists for a few seconds,Not stored in any form of file, I will not collect, use, disclose, share and retain.   
 • Content: Only you can see the recorded content, no one else can get the recorded content.    
 
 
-If you have any questions, please contact us.
-__E-mail:360511404@qq.com__
+If you have any questions, please contact us.   
+__E-mail:360511404@qq.com__   
 

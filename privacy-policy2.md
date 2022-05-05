@@ -33,13 +33,12 @@ Only display your keystrokes, do not record your keystrokes, no records will be 
 To protect your privacy, your keyboard input will not be displayed when typing a password or using the password box.
 
 3. About the application using screen recording
-• Function: The function of the "magnifying glass" in the application. The only purpose of using screen recording is to capture the screen and magnify the display.
-• Data: Generate pictures using screen recording.
-• Purpose: After generating the picture, enlarge it and display it on the local screen.
-• Third parties: Data will not be shared with any third parties.
-• Storage: Recordings are not stored on the hard drive and are not sent to the Internet. The recorded data is only stored in memory and only exists for a few seconds,
-          Not stored in any form of file, I will not collect, use, disclose, share and retain.
-• Content: Only you can see the recorded content, no one else can get the recorded content.
+• Function: The function of the "magnifying glass" in the application. The only purpose of using screen recording is to capture the screen and magnify the display.   
+• Data: Generate pictures using screen recording.   
+• Purpose: After generating the picture, enlarge it and display it on the local screen.   
+• Third parties: Data will not be shared with any third parties.   
+• Storage: Recordings are not stored on the hard drive and are not sent to the Internet. The recorded data is only stored in memory and only exists for a few seconds,Not stored in any form of file, I will not collect, use, disclose, share and retain.   
+• Content: Only you can see the recorded content, no one else can get the recorded content.    
 
 
 If you have any questions, please contact us.

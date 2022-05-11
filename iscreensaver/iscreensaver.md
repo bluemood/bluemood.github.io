@@ -22,7 +22,7 @@ Adapt to Apple silicon, higher efficiency
 [商店下载CN](macappstores://apps.apple.com/cn/app/id1619517924?mt=12)
 
 
-![](./1.png)
+![](./en.png)
 
 中文介绍
 此应用为拥有众多屏幕保护效果的屏幕保护程序
@@ -39,6 +39,8 @@ Adapt to Apple silicon, higher efficiency
 
 使用先进的Apple CloudKit技术,除CloudKit之外不链接任何其它域名
 适配Apple silicon,效率更高
+
+![](./zh.png)
 
 
 

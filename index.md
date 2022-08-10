@@ -1,3 +1,10 @@
+![](./iscreensaver/icon.png)  
+[iScreenSaver](./iscreensaver/iscreensaver)   [Mac软件]   
+我的屏保  [(系统集成原生模式使用帮助)](./iscreensaver/iscreensaver-help)   
+拥有众多屏幕保护效果的屏幕保护程序.
+多种经典屏幕保护,多种粒子屏幕保护,多种时钟屏幕保护,包含翻页时钟,多种三维效果屏幕保护.
+实时的屏幕保护预览效果,支持多个显示器(最多六个),每个显示器拥有独立的设置,可以单独设置不同的屏幕保护
+
 ![](./iwallpaperstatic/icon.png)  
 [iWallpaper static](./iwallpaperstatic/iwallpaperstatic)   [Mac软件]   
 纯净静态壁纸,使用先进的Cloudkit技术,适配Apple silicon

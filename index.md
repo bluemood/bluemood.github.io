@@ -17,6 +17,8 @@ mac 动态壁纸  [(帮助文档)](./iwallpaper/iwallpaper-help)
 完美融合顶部菜单栏,使用先进的Cloudkit技术,适配Apple silicon
 支持6台以上显示器独立控制,支持4种显示器比例,直观的显示器实时预览和选择   
 
+[(macOS版本低于10.15的用户请点击此链接(Below 10.15 please click this link))](./iwallpaper/iwallpaper-old-1314.md)   
+
 ![](./cursor-effect2/icon.png)  
 [CursorEffect2 - 光标特效2](./cursor-effect2/cursor-effect2)   [Mac软件]   
 完全自定义粒子特效     [(粒子参数说明)](./cursor-effect2/particle-parameters)   

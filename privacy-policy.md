@@ -9,5 +9,5 @@
 我们不会向任何第三方提供、出售、出租、分享或交易您的个人信息
 
 如果您有任何问题,请联系我们. 
-__E-mail:360511404@qq.com__
+__E-mail:macosgamedeveloper@icloud.com__
 

@@ -20,7 +20,7 @@
 • 内容:只有您可以看到录制的内容，其他人无法获取录制的内容。   
 
 如果您有任何问题,请联系我们.    
-__E-mail:360511404@qq.com__   
+__E-mail:macosgamedeveloper@icloud.com__   
 
 Our Privacy Policy was updated on May 5, 2022, effective for all apps under xiao dong zhou and macOSgame studio   
 
@@ -42,5 +42,5 @@ To protect your privacy, your keyboard input will not be displayed when typing a
 
 
 If you have any questions, please contact us.   
-__E-mail:360511404@qq.com__   
+__E-mail:macosgamedeveloper@icloud.com__   
 

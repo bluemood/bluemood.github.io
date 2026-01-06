@@ -52,5 +52,5 @@
 
 
 如果您有任何问题,请联系我们. 
-__E-mail:360511404@qq.com__
+__Email:macosgamedeveloper@icloud.com__
 

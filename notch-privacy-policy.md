@@ -16,5 +16,5 @@ Only you can see the recorded content, others cannot get the recorded content.
 The recorded data is only stored in the memory, only a few seconds of existence time, not stored in any file form, I will not collect, use, disclose, share and retain.
 
 If you have any questions, please contact us.
-__E-mail:360511404@qq.com__
+__Email:macosgamedeveloper@icloud.com__
 

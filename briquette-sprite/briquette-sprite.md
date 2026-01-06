@@ -12,7 +12,6 @@
 
 [商店下载](https://apps.apple.com/cn/app/煤球精灵/id1315380048?mt=12)
 
-[游戏攻略](https://www.bilibili.com/video/av63113764)
 
 ![](./1.png)
 ![](./2.png)

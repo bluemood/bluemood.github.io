@@ -22,7 +22,6 @@ In different zoom ratios of the screen, the gap content can be accurately filled
 ![](./1.png)
 
 —联系我们—
-欢迎您反馈问题，我们会处理每个反馈和评论。   
-关注作者,了解最新情况!   
-https://space.bilibili.com/43521885   
-https://twitter.com/rhljiayou   
+Email:macosgamedeveloper@icloud.com
+
+

@@ -73,6 +73,7 @@
 以上问题及截图,在不同的版本中效果不一样,实际以商店最新版本为准!   
 因为我们在用户的反馈下,不断的更新项目,为了使我们的产品变的更好!   
 所以,如果您有任何问题,请与我们联系!!!   
-[bilibili](https://space.bilibili.com/43521885)   
-[twitter](https://twitter.com/rhljiayou)   
+Email:macosgamedeveloper@icloud.com
+
+
 
